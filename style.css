@@ -30,7 +30,6 @@ a{
 .contenedor ul{  
     display: flex;
     list-style: none;
-    box-sizing: border-box;  
     margin-left: 40px;
     line-height: 10px;
     font-weight: 500;
@@ -43,7 +42,6 @@ a{
 }
 
 .contenedor ul li{
-      box-sizing: border-box;
       padding: 10px 0;
       margin: 10px 30px;
       transition: ease 1s;
